@@ -1,5 +1,5 @@
 # REACT.JS TO-DO LIST UYGULAMASI
-Bu projede, kullanıcıların görev yönetimini kolaylaştıran bir yapılacaklar listesi (To-Do App) uygulaması geliştirdim. Uygulama React.js kullanılarak oluşturulmuştur. Uygulamanın temel özellikleri şunlardır:
+Bu projede, kullanıcıların görev yönetimini kolaylaştıran bir yapılacaklar listesi (To-Do App) uygulaması geliştirdim. Uygulama HTML, CSS, JavaScript ve React.js kullanılarak oluşturulmuştur. Uygulamanın temel özellikleri şunlardır:
 
 - Yeni görev ekleme
 
