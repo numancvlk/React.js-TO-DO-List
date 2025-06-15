@@ -1,37 +1,37 @@
-# REACT.JS TO-DO LIST UYGULAMASI
-Bu projede, kullanıcıların görev yönetimini kolaylaştıran bir yapılacaklar listesi (To-Do App) uygulaması geliştirdim. Uygulama HTML, CSS, JavaScript ve React.js kullanılarak oluşturulmuştur. Uygulamanın temel özellikleri şunlardır:
+# 🚀 REACT.JS - TO-DO LİSTESİ UYGULAMASI 🚀
+Bu proje, kullanıcıların günlük görevlerini kolayca yönetebilmeleri için tasarlanmış, **dinamik filtreleme** ve **durum yönetimi** gibi gelişmiş özelliklere sahip modern bir To-Do List uygulamasıdır. HTML, CSS, JavaScript ve React.js kullanılarak sıfırdan geliştirdim.
 
-- Yeni görev ekleme
+* **✅ Yeni Görev Ekleme:** Basit arayüzle hızlıca yeni görevler oluşturun.
+* **🗑️ Görev Silme:** Tamamlanan veya gereksiz görevleri kolayca listeden kaldırın.
+* **✏️ Görev Düzenleme:** Mevcut görevleri anında güncelleyin.
+* **✔️ Görev Tamamlama:** Görevlerin tamamlandığını tek tıklamayla işaretleyin ve görev takibi yapın.
+* **🔎 Görev Arama ve Filtreleme:** Arama çubuğunu kullanarak görevleriniz arasında anında arama yapın ve ilgili görevleri hızla bulun.
 
-- Var olan görevleri silme
+## ⚙️ Kurulum ve Çalıştırma
+Uygulamayı yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
-- Görevleri düzenleme
+1.  **Gereksinimler:**
+    * Bilgisayarınızda **Visual Studio Code**'un kurulu olması gerekmektedir.
 
-- Görevlerin tamamlandığını işaretleme (üzerine tıklayarak)
+2.  **Bağımlılıkları Yükleme:**
+    VS Code terminalini (veya tercih ettiğiniz bir terminali) açın ve gerekli paketleri indirmek için aşağıdaki komutu çalıştırın:
+    ```bash
+    npm install
+    ```
 
-- Arama çubuğu ile görevler arasında filtreleme
+3.  **Uygulamayı Başlatma:**
+    Paketler yüklendikten sonra, uygulamayı başlatmak için terminalde şu komutu kullanın:
+    ```bash
+    npm run dev
+    ```
+    Bu komutu çalıştırdıktan sonra terminalde çıkan linki kopyalayıp web tarayıcınıza yapıştırın.
 
-Bu proje, temel CRUD işlemlerinin yanı sıra kullanıcı deneyimini artıran dinamik filtreleme ve duruma göre stil değişiklikleri gibi özellikler barındırmaktadır.
+Artık uygulamayı kullanmaya hazırsınız!
 
-## -- KURULUM -- 
-Bilgisayarınızda Visual Studio Code kurulumunun yapılmış olması gerekmektedir. VS CODE terminaline npm install yazarak gerekli paketleri indirebilirsiniz. Ardından VS CODE terminaline npm run dev yazarak önünüze çıkan linki kopyalayıp tarayıcınıza yapıştırın. Kullanmaya hazırsınız.
+## 📺 Uygulama Videosu
+▶️ [Watch Project Video on YouTube](https://www.youtube.com/watch?v=hSz4T3uo2cQ)
 
-## -- UYGULAMA İÇİ GÖRÜNTÜLER -- 
-
-![Add_Todo List](https://github.com/user-attachments/assets/fc14db96-a6bf-4ce6-97fb-c18ed1d96419)
-
-Resimde de göründüğü üzere bu kısımdan kullanıcı listesine yeni görevler ekleyebilir.
-
-![TODO](https://github.com/user-attachments/assets/4f79d22a-691f-42db-91be-fe33e1a256ce)
-
-Bu kısımda kullanıcı eklediği görevlerini görebilir, görevlerini düzenleyebilir, görevlerini silebilir ve görevin üzerine basarak yapıldı olarak işaretleyebilir.
-
-![SearchBAR](https://github.com/user-attachments/assets/2dc908bf-2a5b-4757-8137-ee1b3aefccba)
-
-Son kısımda ise birçok görevi olan kullanıcılar istedikleri görevleri arama çubuğuna yazarak ilgili görevine ulaşabilir.
-
-### ÖNEMLİ NOT!
-Bu projeye eklenen görevler tarayıcınıza kaydedilir sayfayı yenileseniz dahi siz silmeden gitmez.
-
+⚠️ Önemli Notlar
+* Bu uygulama, verileri tarayıcınızın **yerel depolamasında (`localStorage`)** saklar. Bu sayede, tarayıcıyı kapatsanız veya sayfayı yenileseniz dahi görevleriniz kaybolmaz ve kaldığınız yerden devam edebilirsiniz.
 ### Bu proje, sadece portföy amacıyla ve ticari bir amaç gütmeden paylaşılmaktadır.
 ### This project is shared solely for portfolio purposes and without any commercial intent.
