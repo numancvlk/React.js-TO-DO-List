@@ -1,5 +1,5 @@
-# 🚀 REACT.JS - TO-DO LİSTESİ UYGULAMASI 🚀
-Bu proje, kullanıcıların günlük görevlerini kolayca yönetebilmeleri için tasarlanmış, **dinamik filtreleme** ve **durum yönetimi** gibi gelişmiş özelliklere sahip modern bir To-Do List uygulamasıdır. HTML, CSS, JavaScript ve React.js kullanılarak sıfırdan geliştirdim.
+# 🚀 REACT.JS - TO-DO LIST UYGULAMASI 🚀
+Bu proje, kullanıcıların günlük görevlerini kolayca yönetebilmeleri için tasarlanmış, **dinamik filtreleme** ve **durum yönetimi** gibi gelişmiş özelliklere sahip modern bir To-Do List uygulamasıdır. HTML, CSS, JavaScript ve React.js kullanarak sıfırdan geliştirdim.
 
 * **✅ Yeni Görev Ekleme:** Basit arayüzle hızlıca yeni görevler oluşturun.
 * **🗑️ Görev Silme:** Tamamlanan veya gereksiz görevleri kolayca listeden kaldırın.
