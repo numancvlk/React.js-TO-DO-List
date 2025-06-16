@@ -11,7 +11,7 @@ Bu proje, kullanıcıların günlük görevlerini kolayca yönetebilmeleri için
 Uygulamayı yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 1.  **Gereksinimler:**
-    * Bilgisayarınızda **Visual Studio Code**'un kurulu olması gerekmektedir.
+    * Bilgisayarınızda **Node.js**'in kurulu olması gerekmektedir.
 
 2.  **Bağımlılıkları Yükleme:**
     VS Code terminalini (veya tercih ettiğiniz bir terminali) açın ve gerekli paketleri indirmek için aşağıdaki komutu çalıştırın:
